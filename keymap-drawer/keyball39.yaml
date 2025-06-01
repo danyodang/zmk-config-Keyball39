@@ -31,8 +31,8 @@ layers:
   - {t: ',', s: <}
   - {t: ., s: '>'}
   - {t: /, h: NUM, s: '?'}
-  - $$mdi:apple-keyboard-control$$
-  - LEFT WIN
+  - $$mdi:keyboard-tab$$
+  - $$mdi:apple-keyboard-command$$
   - $$mdi:apple-keyboard-option$$
   - {t: '$$mdi:backspace$$', h: SNIPE}
   - {t: '$$mdi:keyboard-space$$', h: arrow}
@@ -213,8 +213,8 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - Gui+$$mdi:apple-keyboard-shift$$
+  - $$mdi:apple-keyboard-shift$$
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:arrow-left-bold$$
